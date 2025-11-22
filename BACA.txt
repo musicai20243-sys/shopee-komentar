@@ -2,10 +2,11 @@
 SCRAPING HALAMAN SHOPEE
 =======================
 JALANKAN PERINTAH DI CMD : node scrape
-
+FILE HTML TERSIMPAN DI FOLDER DATA/submitted_page.html
 
 
 =======================
 EKSTRAK KOMENTAR :
 =======================
 JALANKAN PERINTAH DI CMD : node extract-komentar
+FILE KOMENTAR TERSIMPAN DI FOLDER DATA/KOMENTAR/komentar.json
