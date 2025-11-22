@@ -1,0 +1,11 @@
+=======================
+SCRAPING HALAMAN SHOPEE
+=======================
+JALANKAN PERINTAH DI CMD : node scrape
+
+
+
+=======================
+EKSTRAK KOMENTAR :
+=======================
+JALANKAN PERINTAH DI CMD : node extract-komentar
