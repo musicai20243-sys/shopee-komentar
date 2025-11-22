@@ -1,3 +1,5 @@
+GITHUB: https://github.com/musicai20243-sys/shopee-komentar
+
 =======================
 SCRAPING HALAMAN SHOPEE
 =======================
