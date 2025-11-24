@@ -1,8 +1,26 @@
 GITHUB: https://github.com/musicai20243-sys/shopee-komentar
 
+
 =======================
-SCRAPING HALAMAN SHOPEE
+INSTALASI
 =======================
+1.download node js di : https://nodejs.org/en
+2.install node js
+3.masuk ke folder aplikasinya (nama folder terserah anda)
+4.jalankan command : npm install
+
+
+==================================
+CARA SIMPAN HALAMAN SHOPEE MANUAL
+==================================
+1.Login terlebih dahulu
+2.Masuk ke halaman produk shopee yang kamu butuhkan
+3.simpan file ke html
+
+
+====================================
+SCRAPING HALAMAN SHOPEE AUTOMATIC
+====================================
 JALANKAN PERINTAH DI CMD : node scrape
 FILE HTML TERSIMPAN DI FOLDER DATA/submitted_page.html
 
@@ -10,5 +28,6 @@ FILE HTML TERSIMPAN DI FOLDER DATA/submitted_page.html
 =======================
 EKSTRAK KOMENTAR :
 =======================
+UBAH PATH FILE HTML TERLEBIH DAHULU (FILE HTML SHOPEE YANG SUDAH KAMU SIMPAN,ATAU PAKAI FILE DEFAULT YANG SUDAH TERSEDIA UNTUK DICOBA)
 JALANKAN PERINTAH DI CMD : node extract-komentar
 FILE KOMENTAR TERSIMPAN DI FOLDER DATA/KOMENTAR/komentar.json
